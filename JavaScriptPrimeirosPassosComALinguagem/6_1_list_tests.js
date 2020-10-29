@@ -17,7 +17,7 @@ const listaDePessoas = new Array(
 listaDePessoas.push(`Marcos`) // está adicionando ao final da lista
 console.log("Nomes de Pessoas:");
 
-listaDePessoas.splice(0,4); // exclui o número indicado na lista começando do zero, o segundo número controla o tamanho da lista exibida no console.
+listaDePessoas.splice(0,6); // exclui o número indicado na lista começando do zero, o segundo número controla o tamanho da lista exibida no console.
 
 console.log(listaDePessoas);
 
